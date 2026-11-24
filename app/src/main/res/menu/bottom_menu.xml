@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_inicio"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Inìcio"
+        />
+
+    <item
+        android:id="@+id/menu_despesas"
+        android:icon="@drawable/wallet"
+        android:title="Despesas"
+        />
+
+    <item
+        android:id="@+id/menu_perfil"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Perfil"
+        />
+
+</menu>
